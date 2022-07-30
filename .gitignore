@@ -1,0 +1,8 @@
+# Ignoring node_modules directory
+/node_modules/
+
+# Ignoring MAC OSX .DS_STORE file
+.DS_STORE
+
+# Ignoring .vscode directory
+/.vscode/
